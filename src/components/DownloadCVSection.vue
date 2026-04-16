@@ -10,7 +10,7 @@
         </div>
         <div class="download-action">
           <a 
-            href="CV_AgilAjiMunawar.pdf" 
+            href="/CV_AgilAjiMunawar.pdf" 
             download 
             class="nb-button cv-button"
           >
